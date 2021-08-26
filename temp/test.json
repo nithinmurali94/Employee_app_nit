@@ -1,0 +1,2 @@
+url : 'http://127.0.0.1:8000/employees/'
+header : {'Authorization': 'Token e9a445c1b72d8361a6a700baba19344b5dd33f24'}
