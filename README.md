@@ -7,3 +7,5 @@ employee application
     python manage.py  drf_create_token
 4.run the application using
     python manage.py runserver
+
+test.json,response.json and test.csv files are provided in temp folder
